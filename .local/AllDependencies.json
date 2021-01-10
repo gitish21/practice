@@ -677,9 +677,9 @@
     "restore": {
       "projectUniqueName": "GetTimeInBucharest",
       "projectName": "GetTimeInBucharest",
-      "projectPath": "D:\\Projects\\GetTimeInBucharest\\.local",
+      "projectPath": "D:\\project\\.local",
       "packagesPath": "C:\\Users\\gitis\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\GetTimeInBucharest\\.local"
+      "outputPath": "D:\\project\\.local"
     },
     "frameworks": {
       "net461": {
@@ -699,20 +699,6 @@
     }
   },
   "logs": [
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.AspNet.SignalR.Client 2.4.0' from source 'https://www.myget.org/F/workflow/': This package is signed but not by a trusted signer.",
-      "libraryId": "Microsoft.AspNet.SignalR.Client"
-    },
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.Rest.ClientRuntime 2.3.20' from source 'https://www.myget.org/F/workflow/': This package is signed but not by a trusted signer.",
-      "libraryId": "Microsoft.Rest.ClientRuntime"
-    },
     {
       "code": "NU1603",
       "level": "Warning",
